@@ -34,7 +34,7 @@ I believe good analytics is about asking the right questions, understanding the 
 ---
 
 ## 📫 Let’s Connect
-- **LinkedIn:** [linkedin.com/in/kumarvaishnav](https://linkedin.com/in/kumarvaishnav)  
+- **LinkedIn:** [linkedin.com/in/kumar-vaishnav](https://linkedin.com/in/kumar-vaishnav)
 - **Email:** kumarvaishnav.official@gmail.com  
 
 ---
