@@ -22,7 +22,7 @@ I believe good analytics is about asking the right questions, understanding the 
 ---
 
 ## 📊 GitHub Stats
-![Vaishnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnav-Official&show_icons=true&theme=tokyonight)
+![Vaishnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=/KumarVaishnavAI&show_icons=true&theme=tokyonight)
 
 ---
 
